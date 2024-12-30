@@ -26,7 +26,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           config_timezone: America/New_York
-      - name: languages
+      - name: Languages
         uses: lowlighter/metrics@latest
         with:
           plugin_languages: yes

@@ -1,5 +1,5 @@
 # Metrics
 
-![Metrics](/metrics.classic.svg.svg)
+![Metrics](/metrics.classic.svg)
 
 ![Languages](/metrics.plugin.languages.svg)
